@@ -1,0 +1,14 @@
+#work_area{
+  width: 800px;
+  margin: 100 auto;
+}
+#work_area li{
+  display: inline;
+  font-size: 14px;
+  margin-right: 10px;
+}
+#work_area .current{
+  border: 1px dotted;
+  font-size: 20px;
+  padding: 3px;
+}
